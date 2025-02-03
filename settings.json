@@ -1,0 +1,6 @@
+{
+  "webhooks": [
+    "http://example1.local/sonosWebhook",
+    "http://example2.local/sonosWebhook"
+  ]
+} 
